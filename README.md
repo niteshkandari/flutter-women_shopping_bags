@@ -1,16 +1,23 @@
 # ecommerce_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![aaaaaa](https://user-images.githubusercontent.com/74185121/186984342-cefb48aa-077c-4fbb-9dba-ec450205c57e.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![eeeeeeeee](https://user-images.githubusercontent.com/74185121/186984366-318ff1d5-3740-41c0-9d41-9351224ac6fd.png)
+
+
+
+
+![rrrrrr](https://user-images.githubusercontent.com/74185121/186984400-63c9154b-c21c-4410-8e4d-1b2102b0928a.png)
+
+
+
+
+This app was built using the help of a youtube channel - The Flutter Way
+
+
+
